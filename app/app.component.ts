@@ -10,11 +10,7 @@ import { Component } from "@angular/core";
 })
 export class AppComponent {
   test1() {
-    console.log("prueba");
-  }
-  test2() {
-    console.log("prueba");
-  }
+
   test3() {
     console.log("prueba");
   }
