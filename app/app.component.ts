@@ -17,6 +17,29 @@ export class AppComponent {
   test1() {
     console.log("prueba");
   }
+    test1() {
+    console.log("prueba");
+  }
+    test1() {
+    console.log("prueba");
+  }
+    test1() {
+    console.log("prueba");
+  }
+    test1() {
+    console.log("prueba");
+  }
+    test1() {
+    console.log("prueba");
+  }
+  v
+
+    test1() {
+    console.log("prueba");
+  }
+    test1() {
+    console.log("prueba");
+  }
 }
 
 /**  Copyright 2018 Google Inc. All Rights Reserved.
