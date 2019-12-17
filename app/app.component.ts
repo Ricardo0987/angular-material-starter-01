@@ -9,6 +9,10 @@ import { Component } from "@angular/core";
 
 
 
+
+
+
+
   selector: "app-component",
   styleUrls: ["app.component.css"],
   templateUrl: "app.component.html"
