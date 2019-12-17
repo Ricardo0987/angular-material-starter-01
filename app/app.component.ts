@@ -4,6 +4,9 @@ import { Component } from "@angular/core";
  * @title Basic Inputs
  */
 @Component({
+
+
+  
   selector: "app-component",
   styleUrls: ["app.component.css"],
   templateUrl: "app.component.html"
