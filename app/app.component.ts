@@ -3,7 +3,8 @@ import { Component } from "@angular/core";
 /**
  * @title Basic Inputs
  */
-
+    
+    }
 
 
 @Component({
