@@ -10,20 +10,12 @@ import { Component } from "@angular/core";
 
 
 
-
-
-
-
-
-
-
-
-
   selector: "app-component",
   styleUrls: ["app.component.css"],
   templateUrl: "app.component.html"
 })
 export class AppComponent {
+  
   test1() {
 
   test3() {
